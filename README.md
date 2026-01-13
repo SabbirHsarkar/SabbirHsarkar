@@ -18,7 +18,7 @@
 # 💻 Tools that I Know:
 
 
-<img src="https://skillicons.dev/icons?i=nextjs,vercel,js,anaconda,express,nodejs,react,tailwind,vite,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify,tensorflow,keras,sklearn,pandas,numpy&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,vercel,js,anaconda,express,nodejs,react,tailwind,vite,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify,tensorflow,keras,sklearn,pandas,numpy&perline=18" />
 
 
 
