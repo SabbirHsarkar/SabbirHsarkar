@@ -26,10 +26,14 @@
 
 # 📊 Current Stats:
 
-<p align="center">
+
  ![](https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <!-- GitHub Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&border_radius=15" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=synthwave&hide_border=false&border_radius=15" width="48%" />
 </p>
 
 
