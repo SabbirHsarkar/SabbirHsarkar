@@ -20,7 +20,7 @@
 # 💻 Tools that I Know:
 
 
-<p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,vercel,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=8" />
+<p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,vercel,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=6" />
 </p>
 
 
