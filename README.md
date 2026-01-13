@@ -8,14 +8,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=SabbirHsarkar&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
 
 
 ## 🌐 Reach me out:
