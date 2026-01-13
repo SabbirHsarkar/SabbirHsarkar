@@ -21,10 +21,13 @@
 <p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,vercel,mysql,mongodb,firebase,figma,python,php,css,ts,daisyui,nodemon,postman,html,netlify&perline=6" />
 </p>
 
+# About:
+I am a passionate Frontend Developer and Junior MERN Stack Developer with a strong foundation in React and modern web technologies. I enjoy building responsive, user-focused, and scalable web applications using React, Node.js, Express, MongoDB & Next.js.
+I have a growing interest in AI/ML and enjoy exploring how intelligent systems can be integrated into web applications. I am a continuous learner who values clean code, problem-solving, and effective communication.
+Currently, I am seeking opportunities where I can grow as a full-stack developer and contribute to meaningful, real-world projects.
 
 
-
-# 💫 About Me:
+# 💫 Current Overview:
 🔭 I’m currently working on Personal Projects
 <br>👯 I’m looking to collaborate on frontend and MERN stack web development projects
 <br>🤝 I’m looking for help with backend architecture, project scalability, and full-stack best practices
