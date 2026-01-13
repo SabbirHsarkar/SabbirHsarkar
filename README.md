@@ -7,7 +7,7 @@
 <br>🤝 I’m looking for help with backend architecture, project scalability, and full-stack best practices
 <br>🌱 I’m currently learning advanced React,Next.js, Node.js, Express, MongoDB, and AI/ML fundamentals
 <br>💬 Ask me about Web development, React basics, and the MERN stack learning journey
-<br>⚡ Fun fact I enjoy building real projects 
+<br>⚡ Fun fact I enjoy building real-world projects 
 <br>
 
 
