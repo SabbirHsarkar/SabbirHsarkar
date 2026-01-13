@@ -20,11 +20,11 @@
 # 💻 Tools that I Know:
 
 
-<p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=8" />
+<p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,vercel,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=8" />
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 Current Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
