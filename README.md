@@ -1,15 +1,12 @@
 
 <img src="Git-Banner.png" alt="Profile Banner" width="100%" />
 
-# 💫 About Me:
-🔭 I’m currently working on Personal Projects
-<br>👯 I’m looking to collaborate on frontend and MERN stack web development projects
-<br>🤝 I’m looking for help with backend architecture, project scalability, and full-stack best practices
-<br>🌱 I’m currently learning advanced React,Next.js, Node.js, Express, MongoDB, and AI/ML fundamentals
-<br>💬 Ask me about Web development, React basics, and the MERN stack learning journey
-<br>⚡ Fun fact I enjoy building real-world projects 
-<br>
+# 📊 Current Stats:
 
+
+ ![](https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🌐 Reach me out:
@@ -24,12 +21,15 @@
 </p>
 
 
-# 📊 Current Stats:
 
 
- ![](https://github-readme-stats.vercel.app/api?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SabbirHsarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHsarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+# 💫 About Me:
+🔭 I’m currently working on Personal Projects
+<br>👯 I’m looking to collaborate on frontend and MERN stack web development projects
+<br>🤝 I’m looking for help with backend architecture, project scalability, and full-stack best practices
+<br>🌱 I’m currently learning advanced React,Next.js, Node.js, Express, MongoDB, and AI/ML fundamentals
+<br>💬 Ask me about Web development, React basics, and the MERN stack learning journey
+<br>⚡ Fun fact I enjoy building real-world projects 
+<br>
 
 
