@@ -20,8 +20,8 @@
 # 💻 Tools that I Know:
 
 
-<img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=18" />
-
+<p align='center'><img src="https://skillicons.dev/icons?i=nextjs,vercel,js,express,nodejs,react,tailwind,vite,mysql,mongodb,firebase,figma,python,php,c,ts,daisyui,nodemon,postman,html,netlify&perline=8" />
+</p>
 
 
 # 📊 GitHub Stats:
